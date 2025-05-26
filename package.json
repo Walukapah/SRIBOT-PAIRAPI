@@ -1,0 +1,16 @@
+{
+  "name": "whatsapp-pairing-api",
+  "version": "1.0.0",
+  "main": "api/code.js",
+  "scripts": {
+    "start": "node api/code.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "express": "^4.18.2",
+    "pino": "^8.14.1"
+  },
+  "engines": {
+    "node": ">=16.x"
+  }
+}
